@@ -32,7 +32,7 @@ const rules = {
 </ol>
 <h3>Voting & Governance</h3>
 <ol start="23">
-  <li>NAP decisions are made by majority vote.</li>
+  <li>NAP decisions are made by majority vote excluding academies/farms.</li>
   <li>If voting results in a tie, the current president casts the deciding vote.</li>
 </ol>
 <h3>Minister Queue Rules</h3>
@@ -77,7 +77,7 @@ const rules = {
 </ol>
 <h3>투표 및 운영 규칙</h3>
 <ol start="23">
-  <li>NAP의 모든 결정은 다수결로 결정됩니다.</li>
+  <liNAP의 모든 결정은 학원/농장은 제외하고 다수결로 결정됩니다.</li>
   <li>표가 동률일 경우, 현 대통령이 결정표를 행사합니다.</li>
 </ol>
 <h3>장관 대기열 규칙</h3>
@@ -122,7 +122,7 @@ const rules = {
 </ol>
 <h3>投票与管理规则</h3>
 <ol start="23">
-  <li>NAP的所有决策通过多数票决定。</li>
+  <li>NAP的所有决策（不包括学院/农场）通过多数票决定。</li>
   <li>若出现平票，由现任总统投出决定性一票。</li>
 </ol>
 <h3></h3>
@@ -167,7 +167,7 @@ const rules = {
 </ol>
 <h3>Oylama ve Yönetim Kuralları</h3>
 <ol start="23">
-  <li>NAP kararları çoğunluk oyu ile alınır.</li>
+  <li>NAP kararları, akademiler/çiftlikler hariç, çoğunluk oyu ile alınır.</li>
   <li>Oylar eşit çıkarsa, son kararı mevcut başkan verir.</li>
 </ol>
 <h3>Bakan Sırası Kuralları</h3>
@@ -212,7 +212,7 @@ const rules = {
 </ol>
 <h3>Règles de Vote et de Gouvernance</h3>
 <ol start="23">
-  <li>Les décisions du NAP sont prises à la majorité des votes.</li>
+  <li>Les décisions du NAP sont prises à la majorité des voix, à l'exception des académies/fermes.</li>
   <li>En cas d’égalité, le président en fonction a le vote décisif.</li>
 </ol>
 <h3>Règles de File des Ministres</h3>
@@ -257,7 +257,7 @@ const rules = {
 </ol>
 <h3>Votación y Gobernanza</h3>
 <ol start="23">
-  <li>Las decisiones del NAP se toman por mayoría de votos.</li>
+  <li>Las decisiones del NAP se toman por mayoría de votos, excluyendo academias/ granjas.</li>
   <li>Si hay empate, el presidente actual tiene el voto decisivo.</li>
 </ol>
 <h3>Reglas de Cola Ministerial</h3>
@@ -303,7 +303,7 @@ const rules = {
 </ol>
 <h3>قواعد التصويت والإدارة</h3>
 <ol start="23">
-  <li>يتم اتخاذ قرارات NAP عن طريق التصويت بالأغلبية.</li>
+  <li>NAP، باستثناء الأكاديميات/المزارع، تُتخذ قراراته عن طريق التصويت بالأغلبية</li>
   <li>في حال التعادل، يكون للرئيس الحالي صوت الحسم.</li>
 </ol>
 <h3>قواعد قائمة الوزير</h3>
