@@ -42,7 +42,7 @@ const rules = {
 </ol>
 <h3>Chat & Conduct</h3>
 <ol start="26">
-  <li>Freedom of Speech. Anyone can say anything they want. If you don’t like it, use the blacklist feature.</li>
+  <li></li>
 </ol>
       `,
       ko: `
@@ -134,7 +134,7 @@ const rules = {
 </ol>
 <h3>聊天与行为规范</h3>
 <ol start="26">
-  <li>言论自由。任何人都可以自由发言。如果你不喜欢，可以使用黑名单功能。</li>
+  <li</li>
 </ol>
       `,
       tr: `
@@ -180,7 +180,7 @@ const rules = {
 </ol>
 <h3>Sohbet ve Davranış Kuralları</h3>
 <ol start="26">
-  <li>İfade özgürlüğü vardır. Herkes istediğini söyleyebilir. Beğenmiyorsan kara liste özelliğini kullan.</li>
+  <li></li>
 </ol>
       `,
       fr: `
@@ -226,7 +226,7 @@ const rules = {
 </ol>
 <h3>Règles de Chat et de Conduite</h3>
 <ol start="26">
-  <li>Liberté d’expression. Tout le monde peut dire ce qu’il veut. Si ça ne vous plaît pas, utilisez la fonction de liste noire.</li>
+  <li></li>
 </ol>
 `,
       es: `
@@ -272,7 +272,7 @@ const rules = {
 </ol>
 <h3>Chat y Conducta</h3>
 <ol start="26">
-  <li>Libertad de expresión. Cualquiera puede decir lo que quiera. Si no te gusta, usa la función de lista negra.</li>
+  <li></li>
 </ol>
 `,
       ar: `
@@ -319,7 +319,7 @@ const rules = {
 </ol>
 <h3>قواعد الدردشة والسلوك</h3>
 <ol start="26">
-  <li>حرية التعبير مكفولة. يمكن لأي شخص أن يقول ما يشاء. إذا لم يعجبك ذلك، استخدم خاصية الحظر.</li>
+  <li></li>
 </ol>
 </div>
 `
