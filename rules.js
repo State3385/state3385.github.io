@@ -19,7 +19,7 @@ const rules = {
   <li>Each NAP alliance can designate only 1 academy alliance.</li>
   <li>The SvS designated alliance is protected by NAP.</li>
   <li>No poaching players from NAP alliances.</li>
-  <li>NAP includes the top 6 alliances, their academies, and the SvS alliance.</li>
+  <li>NAP includes the top 8 alliances, their academies, and the SvS alliance.</li>
   <li>Each NAP alliance will have a single representative that will vote for the whole alliance.</li>
 </ol>
 <h3>Facility & Banner Rules</h3>
@@ -60,7 +60,7 @@ const rules = {
   <li>각 NAP 동맹은 오직 하나의 학원 동맹만 지정할 수 있습니다.</li>
   <li>SvS 지정 동맹은 NAP의 보호를 받습니다.</li>
   <li>NAP 동맹으로부터의 플레이어 스카우팅은 금지됩니다.</li>
-  <li>대통령직은 상위 3위 SVS 준비 NAP 동맹 사이에서 순환됩니다. 대표 선출 방식은 각 동맹이 결정합니다.</li>
+  <li>NAP에는 상위 8개 동맹과 각 동맹의 아카데미, 그리고 SvS 동맹이 포함됩니다.</li>
   <li>각 NAP 동맹은 전체 동맹을 대표해 투표할 대표자를 1명 지정해야 합니다.</li>
 </ol>
 <h3>시설 및 깃발 규칙</h3>
@@ -101,7 +101,7 @@ const rules = {
   <li>每个NAP联盟只能指定一个学院联盟。</li>
   <li>被指定参与SvS的联盟受NAP保护。</li>
   <li>禁止从NAP联盟中挖人。</li>
-  <li>NAP包括排名前6的联盟、它们的学院联盟和SvS联盟。</li>
+  <li>NAP 包括 8 大联盟、其所属学院以及 SvS 联盟。</li>
   <li>每个NAP联盟必须有一名代表，代表整个联盟进行投票。</li>
 </ol>
 <h3>设施与旗帜规则</h3>
@@ -142,7 +142,7 @@ const rules = {
   <li>Her NAP ittifakı yalnızca 1 akademi ittifakı belirleyebilir.</li>
   <li>SvS için belirlenen ittifak NAP koruması altındadır.</li>
   <li>NAP ittifaklarından oyuncu kaçırmak yasaktır.</li>
-  <li>NAP, en üst 6 ittifakı, onların akademilerini ve SvS ittifakını kapsar.</li>
+  <li>NAP, en üst 8 ittifakı, onların akademilerini ve SvS ittifakını kapsar.</li>
   <li>Her NAP ittifakının, tüm ittifak adına oy kullanacak bir temsilcisi olacaktır.</li>
 </ol>
 <h3>Tesis ve Bayrak Kuralları</h3>
@@ -183,7 +183,7 @@ const rules = {
   <li>Chaque alliance NAP peut désigner une seule alliance académie.</li>
   <li>L’alliance désignée pour SvS est protégée par le NAP.</li>
   <li>Il est interdit de débaucher des joueurs des alliances NAP.</li>
-  <li>Le NAP inclut les 6 meilleures alliances, leurs académies et l’alliance SvS.</li>
+  <li>Le NAP inclut les 8 meilleures alliances, leurs académies et l’alliance SvS.</li>
   <li>Chaque alliance NAP aura un représentant unique chargé de voter pour toute l’alliance.</li>
 </ol>
 <h3>Règles des Installations et Bannières</h3>
@@ -224,7 +224,7 @@ const rules = {
   <li>Cada alianza NAP puede designar solo una alianza academia.</li>
   <li>La alianza designada para SvS está protegida por el NAP.</li>
   <li>Prohibido reclutar jugadores de otras alianzas NAP.</li>
-  <li>El NAP incluye las 6 alianzas principales, sus academias y la alianza SvS.</li>
+  <li>El NAP incluye las 8 alianzas principales, sus academias y la alianza SvS.</li>
   <li>Cada alianza NAP tendrá un único representante que votará por toda la alianza.</li>
 </ol>
 <h3>Reglas de Instalaciones y Banderas</h3>
@@ -266,7 +266,7 @@ const rules = {
   <li>يمكن لكل تحالف ضمن NAP تعيين تحالف أكاديمي واحد فقط.</li>
   <li>التحالف المعين للمشاركة في SvS محمي من قبل NAP.</li>
   <li>ممنوع جذب اللاعبين من تحالفات NAP الأخرى.</li>
-  <li>NAP تشمل أعلى 6 تحالفات، أكاديمياتها، وتحالف SvS.</li>
+  <li>NAP تشمل أعلى 8 تحالفات، أكاديمياتها، وتحالف SvS.</li>
   <li>يجب أن يكون لكل تحالف NAP ممثل واحد يصوّت باسم التحالف بأكمله.</li>
 </ol>
 <h3>قواعد المنشآت والأعلام</h3>
