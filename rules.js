@@ -39,10 +39,6 @@ const rules = {
 <ol start="24">
   <li>Minister of Interior may only be used by R4 and R5 members. It cannot be used to move players in minister queues. It may only be used to create new reservations or swap two players if both players agree.</li>
 </ol>
-<h3></h3>
-<ol start="">
-  <li></li>
-</ol>
       `,
       ko: `
 <h3>전투 규칙</h3>
@@ -84,10 +80,6 @@ const rules = {
 <ol start="24">
   <li>내무부 장관은 R4 및 R5만 사용할 수 있습니다. 대기열에서 플레이어를 이동시키는 데 사용할 수 없으며, 예약 생성 또는 두 명의 동의가 있을 경우에만 교체할 수 있습니다.</li>
 </ol>
-<h3></h3>
-<ol start="">
-  <li></li>
-</ol>
 `,
       zh: `
 <h3>战斗规则</h3>
@@ -125,13 +117,9 @@ const rules = {
   <li>NAP的所有决策（不包括学院/农场）通过多数票决定。</li>
   <li>若出现平票，由现任总统投出决定性一票。</li>
 </ol>
-<h3></h3>
+<h3>部长队列规则</h3>
 <ol start="24">
-  <li></li>
-</ol>
-<h3>聊天与行为规范</h3>
-<ol start="">
-  <li</li>
+<li>内政部长只能由 R4 和 R5 成员使用。它不能用于移动部长队列中的玩家。它只能用于创建新的预订或在双方同意的情况下交换两名玩家。</li>
 </ol>
       `,
       tr: `
@@ -174,10 +162,6 @@ const rules = {
 <ol start="24">
   <li>İçişleri Bakanı rolü yalnızca R4 ve R5 üyeleri tarafından kullanılabilir. Oyuncuları sıradan taşımak için kullanılamaz. Yalnızca yeni rezervasyonlar oluşturmak veya iki oyuncu karşılıklı onaylarsa yerlerini değiştirmek için kullanılabilir.</li>
 </ol>
-<h3></h3>
-<ol start="">
-  <li></li>
-</ol>
       `,
       fr: `
 <h3>Règles de Combat</h3>
@@ -218,10 +202,6 @@ const rules = {
 <h3>Règles de File des Ministres</h3>
 <ol start="24">
   <li>Le Ministre de l’Intérieur ne peut être utilisé que par les membres R4 et R5. Il ne peut pas déplacer les joueurs dans la file. Il peut uniquement être utilisé pour créer de nouvelles réservations ou échanger deux joueurs avec accord mutuel.</li>
-</ol>
-<h3></h3>
-<ol start="">
-  <li></li>
 </ol>
 `,
       es: `
@@ -264,10 +244,6 @@ const rules = {
 <ol start="24">
   <li>El Ministro del Interior solo puede ser usado por miembros R4 y R5. No puede usarse para mover jugadores en la cola. Solo se puede usar para hacer nuevas reservas o intercambiar posiciones si ambos jugadores están de acuerdo.</li>
 </ol>
-<h3></h3>
-<ol start="">
-  <li></li>
-</ol>
 `,
       ar: `
 <div style="direction: rtl; text-align: right;">
@@ -309,10 +285,6 @@ const rules = {
 <h3>قواعد قائمة الوزير</h3>
 <ol start="24">
   <li>يمكن فقط لأعضاء R4 وR5 استخدام دور وزير الداخلية. لا يمكن استخدامه لنقل اللاعبين في القائمة، بل فقط لإنشاء حجوزات جديدة أو تبديل لاعبين بموافقة الطرفين.</li>
-</ol>
-<h3>/h3>
-<ol start="">
-  <li></li>
 </ol>
 </div>
 `
