@@ -4,7 +4,6 @@ const rules = {
 <ol>
   <li>No attacking, rallying, or scouting NAP alliances, including their academies, cities, headquarters, and banners.</li>
   <li>No attacking gathering tiles outside of designated events (Brothers In Arms).</li>
-  <li>Do not gather in another alliance's hive. Attacks on gathering tiles are allowed in this case.</li>
   <li>No third-party interference (e.g. players switching alliances to assist) or city attacks during facility battles.</li>
   <li>Only the assigned NAP alliance may attack a stronghold or fortress. No other player or alliance should touch it.</li>
   <li>No solo attack on fortresses or strongholds.</li>
@@ -50,7 +49,6 @@ const rules = {
 <ol>
   <li>NAP 동맹 및 그들의 학원, 도시, 본부, 깃발에 대한 공격, 집결, 정찰을 금지합니다.</li>
   <li>지정된 이벤트(예: 전우애) 외에는 자원지 공격을 금지합니다.</li>
-  <li>다른 동맹의 벌집 내에서 자원을 채집하지 마십시오. 이 경우 해당 자원지에 대한 공격은 허용됩니다.</li>
   <li>시설 전투 중 제3자의 개입(예: 동맹을 바꿔서 지원)이나 도시 공격은 금지됩니다.</li>
   <li>지정된 NAP 동맹만이 요새나 성을 공격할 수 있습니다. 다른 플레이어나 동맹은 손대면 안 됩니다.</li>
   <li>요새나 성에 대한 단독 공격은 금지됩니다.</li>
@@ -87,7 +85,7 @@ const rules = {
   <li>내무부 장관은 R4 및 R5만 사용할 수 있습니다. 대기열에서 플레이어를 이동시키는 데 사용할 수 없으며, 예약 생성 또는 두 명의 동의가 있을 경우에만 교체할 수 있습니다.</li>
 </ol>
 <h3></h3>
-<ol start="26">
+<ol start="">
   <li></li>
 </ol>
 `,
@@ -96,7 +94,6 @@ const rules = {
 <ol>
   <li>禁止攻击、集结或侦查NAP联盟，包括其学院、城市、总部和旗帜。</li>
   <li>除了指定活动（例如“战友同心”）期间，禁止攻击采集点。</li>
-  <li>不要在其他联盟的蜂巢内采集资源。如果在他人蜂巢内采集，允许对其采集点进行攻击。</li>
   <li>禁止第三方干预（例如切换联盟来协助）或在设施战中攻击城市。</li>
   <li>只有被指定的NAP联盟可以攻击据点或堡垒，其他玩家或联盟不得干涉。</li>
   <li>禁止单人攻击据点或堡垒。</li>
@@ -133,7 +130,7 @@ const rules = {
   <li></li>
 </ol>
 <h3>聊天与行为规范</h3>
-<ol start="26">
+<ol start="">
   <li</li>
 </ol>
       `,
@@ -142,7 +139,6 @@ const rules = {
 <ol>
   <li>NAP ittifaklarına, akademilerine, şehirlerine, karargahlarına ve bayraklarına saldırmak, keşif yapmak veya miting kurmak yasaktır.</li>
   <li>Belirlenmiş etkinlikler (Silah Kardeşliği) dışında kaynak noktalarına saldırmak yasaktır.</li>
-  <li>Başka bir ittifakın kovanında kaynak toplanmamalıdır. Bu durumda kaynak noktalarına saldırıya izin verilir.</li>
   <li>Tesis savaşları sırasında üçüncü taraf müdahalesi (ör. yardım etmek için ittifak değiştirme) veya şehir saldırısı yasaktır.</li>
   <li>Yalnızca görevlendirilmiş NAP ittifakı bir kale veya güçlü noktaya saldırabilir. Başka hiçbir oyuncu veya ittifak dokunmamalıdır.</li>
   <li>Kale veya güçlü noktalara tek başına saldırı yapılması yasaktır.</li>
@@ -188,7 +184,6 @@ const rules = {
 <ol>
   <li>Interdiction d’attaquer, de faire des rassemblements ou de faire du repérage sur les alliances NAP, y compris leurs académies, villes, quartiers généraux et bannières.</li>
   <li>Interdiction d’attaquer les tuiles de collecte en dehors des événements désignés (Frères d’Armes).</li>
-  <li>Ne collectez pas dans la ruche d’une autre alliance. Dans ce cas, les attaques sur les tuiles de collecte sont autorisées.</li>
   <li>Pas d’ingérence de tiers (ex : changement d’alliance pour aider) ni d’attaque de villes pendant les batailles d’installation.</li>
   <li>Seule l’alliance NAP désignée peut attaquer un bastion ou une forteresse. Aucun autre joueur ou alliance ne doit y toucher.</li>
   <li>Les attaques en solo sur les bastions ou forteresses sont interdites.</li>
@@ -234,7 +229,6 @@ const rules = {
 <ol>
   <li>No atacar, reagrupar ni espiar a alianzas NAP, incluyendo sus academias, ciudades, cuarteles generales y banderas.</li>
   <li>No atacar terrenos de recolección fuera de eventos designados (Hermanos de Armas).</li>
-  <li>No recolectar en la colmena de otra alianza. En este caso, se permite atacar los terrenos de recolección.</li>
   <li>No se permite intervención de terceros (por ejemplo, cambiar de alianza para ayudar) ni ataques a ciudades durante batallas de instalaciones.</li>
   <li>Solo la alianza NAP asignada puede atacar una fortaleza o bastión. Ningún otro jugador o alianza debe tocarla.</li>
   <li>Prohibido atacar fortificaciones o bastiones en solitario.</li>
@@ -271,7 +265,7 @@ const rules = {
   <li>El Ministro del Interior solo puede ser usado por miembros R4 y R5. No puede usarse para mover jugadores en la cola. Solo se puede usar para hacer nuevas reservas o intercambiar posiciones si ambos jugadores están de acuerdo.</li>
 </ol>
 <h3></h3>
-<ol start="26">
+<ol start="">
   <li></li>
 </ol>
 `,
@@ -281,7 +275,6 @@ const rules = {
 <ol>
   <li>ممنوع الهجوم أو التجمع أو الاستطلاع على تحالفات NAP بما في ذلك الأكاديميات والمدن والمقرات والأعلام التابعة لها.</li>
   <li>ممنوع الهجوم على بلاطات التجميع خارج الفعاليات المحددة (مثل "الأخوة في السلاح").</li>
-  <li>لا تقم بالتجميع داخل خلية تحالف آخر. في هذه الحالة، يُسمح بالهجوم على بلاطات التجميع.</li>
   <li>ممنوع التدخل من طرف ثالث (مثل تغيير التحالف لتقديم المساعدة) أو مهاجمة المدن أثناء معارك المنشآت.</li>
   <li>التحالف المخصص من NAP فقط هو المسموح له بمهاجمة الحصون أو القلاع. لا يجب لأي لاعب أو تحالف آخر التدخل.</li>
   <li>ممنوع الهجوم الفردي على الحصون أو القلاع.</li>
@@ -318,7 +311,7 @@ const rules = {
   <li>يمكن فقط لأعضاء R4 وR5 استخدام دور وزير الداخلية. لا يمكن استخدامه لنقل اللاعبين في القائمة، بل فقط لإنشاء حجوزات جديدة أو تبديل لاعبين بموافقة الطرفين.</li>
 </ol>
 <h3>/h3>
-<ol start="26">
+<ol start="">
   <li></li>
 </ol>
 </div>
