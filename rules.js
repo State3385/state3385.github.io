@@ -7,7 +7,7 @@ const rules = {
   <li>No third-party interference (e.g. players switching alliances to assist) or city attacks during facility battles.</li>
   <li>Only the assigned NAP alliance may attack a stronghold or fortress. No other player or alliance should touch it.</li>
   <li>No solo attack on fortresses or strongholds.</li>
-  <li>The presidency will rotate among all NAP alliances. The selection method is up to each alliance.</li>
+  <li>The presidency will rotate amoung the top 3 ranking SVS prep NAP alliances. The selection method is up to each alliance.</li>
   <li>The president must activate presidential skills during event-aligned days or be removed from rotation until NAP votes otherwise.</li>
   <li>The president is a servant for the state, not a ruler and should always follow what NAP agrees upon.</li>
   <li>Violating NAP rules may result in presidential punishment, compensation, troop loss, removal from a NAP alliance, or removal from NAP entirely.</li>
@@ -40,7 +40,7 @@ const rules = {
   <li>Minister of Interior may only be used by R4 and R5 members. It cannot be used to move players in minister queues. It may only be used to create new reservations or swap two players if both players agree.</li>
 </ol>
 <h3></h3>
-<ol start="26">
+<ol start="">
   <li></li>
 </ol>
       `,
@@ -64,7 +64,7 @@ const rules = {
   <li>각 NAP 동맹은 오직 하나의 학원 동맹만 지정할 수 있습니다.</li>
   <li>SvS 지정 동맹은 NAP의 보호를 받습니다.</li>
   <li>NAP 동맹으로부터의 플레이어 스카우팅은 금지됩니다.</li>
-  <li>NAP에는 상위 6개 동맹, 그들의 학원 동맹, SvS 동맹이 포함됩니다.</li>
+  <li>대통령직은 상위 3위 SVS 준비 NAP 동맹 사이에서 순환됩니다. 대표 선출 방식은 각 동맹이 결정합니다.</li>
   <li>각 NAP 동맹은 전체 동맹을 대표해 투표할 대표자를 1명 지정해야 합니다.</li>
 </ol>
 <h3>시설 및 깃발 규칙</h3>
@@ -97,7 +97,7 @@ const rules = {
   <li>禁止第三方干预（例如切换联盟来协助）或在设施战中攻击城市。</li>
   <li>只有被指定的NAP联盟可以攻击据点或堡垒，其他玩家或联盟不得干涉。</li>
   <li>禁止单人攻击据点或堡垒。</li>
-  <li>总统职位将在NAP联盟之间轮换。每个联盟可自行决定选择方式。</li>
+  <li>总统职位将在排名前三的SVS准备NAP联盟之间轮换。每个联盟可自行决定选择方式。</li>
   <li>总统必须在活动相关日子开启总统技能，否则将被移出轮换，直到NAP重新投票决定。</li>
   <li>总统是国家的服务者而非统治者，必须遵守NAP的共同决议。</li>
   <li>违反NAP规则可能会导致总统惩罚、赔偿、部队损失、被踢出NAP联盟，甚至被完全移除出NAP。</li>
@@ -142,7 +142,7 @@ const rules = {
   <li>Tesis savaşları sırasında üçüncü taraf müdahalesi (ör. yardım etmek için ittifak değiştirme) veya şehir saldırısı yasaktır.</li>
   <li>Yalnızca görevlendirilmiş NAP ittifakı bir kale veya güçlü noktaya saldırabilir. Başka hiçbir oyuncu veya ittifak dokunmamalıdır.</li>
   <li>Kale veya güçlü noktalara tek başına saldırı yapılması yasaktır.</li>
-  <li>Başkanlık, tüm NAP ittifakları arasında dönüşümlü olarak el değiştirecektir. Seçim yöntemi her ittifaka bırakılmıştır.</li>
+  <li>Başkanlık, en iyi 3 sıralamadaki SVS hazırlık NAP ittifakı arasında dönüşümlü olarak yapılacaktır. Seçim yöntemi her ittifaka bırakılmıştır.</li>
   <li>Başkan, etkinliğe uygun günlerde başkanlık yeteneklerini etkinleştirmelidir; aksi takdirde NAP tekrar karar verene kadar dönüşüm dışı kalır.</li>
   <li>Başkan, eyaletin hizmetkarıdır; lider değil. Her zaman NAP kararlarına uymalıdır.</li>
   <li>NAP kurallarının ihlali, başkanlık cezası, tazminat, asker kaybı, NAP ittifakından çıkarılma veya tamamen NAP dışına atılma ile sonuçlanabilir.</li>
@@ -175,7 +175,7 @@ const rules = {
   <li>İçişleri Bakanı rolü yalnızca R4 ve R5 üyeleri tarafından kullanılabilir. Oyuncuları sıradan taşımak için kullanılamaz. Yalnızca yeni rezervasyonlar oluşturmak veya iki oyuncu karşılıklı onaylarsa yerlerini değiştirmek için kullanılabilir.</li>
 </ol>
 <h3></h3>
-<ol start="26">
+<ol start="">
   <li></li>
 </ol>
       `,
@@ -187,7 +187,7 @@ const rules = {
   <li>Pas d’ingérence de tiers (ex : changement d’alliance pour aider) ni d’attaque de villes pendant les batailles d’installation.</li>
   <li>Seule l’alliance NAP désignée peut attaquer un bastion ou une forteresse. Aucun autre joueur ou alliance ne doit y toucher.</li>
   <li>Les attaques en solo sur les bastions ou forteresses sont interdites.</li>
-  <li>La présidence tournera entre toutes les alliances NAP. La méthode de sélection est laissée à chaque alliance.</li>
+  <li>La présidence tournera entre les 3 alliances NAP préparatoires SVS les mieux classées. La méthode de sélection est laissée à chaque alliance.</li>
   <li>Le président doit activer les compétences présidentielles pendant les jours alignés avec les événements, sinon il sera retiré de la rotation jusqu’à une nouvelle décision du NAP.</li>
   <li>Le président est un serviteur de l’État, pas un dirigeant, et doit toujours suivre les décisions du NAP.</li>
   <li>Violer les règles du NAP peut entraîner des sanctions présidentielles, des compensations, des pertes de troupes, une expulsion de l’alliance NAP, ou une exclusion totale du NAP.</li>
@@ -220,7 +220,7 @@ const rules = {
   <li>Le Ministre de l’Intérieur ne peut être utilisé que par les membres R4 et R5. Il ne peut pas déplacer les joueurs dans la file. Il peut uniquement être utilisé pour créer de nouvelles réservations ou échanger deux joueurs avec accord mutuel.</li>
 </ol>
 <h3></h3>
-<ol start="26">
+<ol start="">
   <li></li>
 </ol>
 `,
@@ -232,7 +232,7 @@ const rules = {
   <li>No se permite intervención de terceros (por ejemplo, cambiar de alianza para ayudar) ni ataques a ciudades durante batallas de instalaciones.</li>
   <li>Solo la alianza NAP asignada puede atacar una fortaleza o bastión. Ningún otro jugador o alianza debe tocarla.</li>
   <li>Prohibido atacar fortificaciones o bastiones en solitario.</li>
-  <li>La presidencia rotará entre todas las alianzas NAP. El método de selección depende de cada alianza.</li>
+  <li>La presidencia rotará entre las 3 alianzas NAP preparatorias de SVS mejor clasificadas. El método de selección queda a criterio de cada alianza.</li>
   <li>El presidente debe activar las habilidades presidenciales en los días de evento; de lo contrario, será removido de la rotación hasta que el NAP vote lo contrario.</li>
   <li>El presidente es un servidor del estado, no un gobernante, y siempre debe seguir lo que acuerde el NAP.</li>
   <li>Romper las reglas del NAP puede resultar en castigo presidencial, compensación, pérdida de tropas, expulsión de la alianza NAP o del NAP por completo.</li>
@@ -278,7 +278,7 @@ const rules = {
   <li>ممنوع التدخل من طرف ثالث (مثل تغيير التحالف لتقديم المساعدة) أو مهاجمة المدن أثناء معارك المنشآت.</li>
   <li>التحالف المخصص من NAP فقط هو المسموح له بمهاجمة الحصون أو القلاع. لا يجب لأي لاعب أو تحالف آخر التدخل.</li>
   <li>ممنوع الهجوم الفردي على الحصون أو القلاع.</li>
-  <li>رئاسة الدولة ستنتقل بالتناوب بين تحالفات NAP. طريقة الاختيار تُترك لكل تحالف.</li>
+  <li>ستنتقل رئاسة الدولة بالتناوب بين أفضل 3 تحالفات NAP التحضيرية لـ SVS. طريقة الاختيار متروكة لكل تحالف.</li>
   <li>يجب على الرئيس تفعيل المهارات الرئاسية في أيام الفعاليات، وإلا سيتم استبعاده من التناوب حتى تصوّت NAP خلاف ذلك.</li>
   <li>الرئيس هو خادم للولاية وليس حاكمًا، ويجب عليه اتباع قرارات NAP دائمًا.</li>
   <li>انتهاك قواعد NAP قد يؤدي إلى عقوبات من الرئيس، تعويض، خسائر في القوات، الطرد من التحالف أو الطرد التام من NAP.</li>
