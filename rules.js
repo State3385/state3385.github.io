@@ -86,9 +86,9 @@ const rules = {
 <ol start="25">
   <li>내무부 장관은 R4 및 R5만 사용할 수 있습니다. 대기열에서 플레이어를 이동시키는 데 사용할 수 없으며, 예약 생성 또는 두 명의 동의가 있을 경우에만 교체할 수 있습니다.</li>
 </ol>
-<h3>채팅 및 행동 규칙</h3>
+<h3></h3>
 <ol start="26">
-  <li>언론의 자유가 보장됩니다. 누구든지 하고 싶은 말을 할 수 있습니다. 마음에 들지 않으면 차단 기능을 사용하세요.</li>
+  <li></li>
 </ol>
 `,
       zh: `
@@ -128,9 +128,9 @@ const rules = {
   <li>NAP的所有决策通过多数票决定。</li>
   <li>若出现平票，由现任总统投出决定性一票。</li>
 </ol>
-<h3>部长排队规则</h3>
+<h3></h3>
 <ol start="25">
-  <li>内政部长职位仅限R4和R5使用。不得用于调整排队顺序，仅可在双方同意的情况下创建新预约或交换两个玩家的位置。</li>
+  <li></li>
 </ol>
 <h3>聊天与行为规范</h3>
 <ol start="26">
@@ -178,7 +178,7 @@ const rules = {
 <ol start="25">
   <li>İçişleri Bakanı rolü yalnızca R4 ve R5 üyeleri tarafından kullanılabilir. Oyuncuları sıradan taşımak için kullanılamaz. Yalnızca yeni rezervasyonlar oluşturmak veya iki oyuncu karşılıklı onaylarsa yerlerini değiştirmek için kullanılabilir.</li>
 </ol>
-<h3>Sohbet ve Davranış Kuralları</h3>
+<h3></h3>
 <ol start="26">
   <li></li>
 </ol>
@@ -224,7 +224,7 @@ const rules = {
 <ol start="25">
   <li>Le Ministre de l’Intérieur ne peut être utilisé que par les membres R4 et R5. Il ne peut pas déplacer les joueurs dans la file. Il peut uniquement être utilisé pour créer de nouvelles réservations ou échanger deux joueurs avec accord mutuel.</li>
 </ol>
-<h3>Règles de Chat et de Conduite</h3>
+<h3></h3>
 <ol start="26">
   <li></li>
 </ol>
@@ -270,7 +270,7 @@ const rules = {
 <ol start="25">
   <li>El Ministro del Interior solo puede ser usado por miembros R4 y R5. No puede usarse para mover jugadores en la cola. Solo se puede usar para hacer nuevas reservas o intercambiar posiciones si ambos jugadores están de acuerdo.</li>
 </ol>
-<h3>Chat y Conducta</h3>
+<h3></h3>
 <ol start="26">
   <li></li>
 </ol>
@@ -317,7 +317,7 @@ const rules = {
 <ol start="25">
   <li>يمكن فقط لأعضاء R4 وR5 استخدام دور وزير الداخلية. لا يمكن استخدامه لنقل اللاعبين في القائمة، بل فقط لإنشاء حجوزات جديدة أو تبديل لاعبين بموافقة الطرفين.</li>
 </ol>
-<h3>قواعد الدردشة والسلوك</h3>
+<h3>/h3>
 <ol start="26">
   <li></li>
 </ol>
