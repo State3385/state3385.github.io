@@ -15,7 +15,7 @@ const rules = {
   <li>Once NAP agrees to punish a player, the alliance occupying the player must comply or forfeit their position in NAP.</li>
 </ol>
 <h3>Alliance Rules</h3>
-<ol start="13">
+<ol start="12">
   <li>Each NAP alliance can designate only 1 academy alliance.</li>
   <li>The SvS designated alliance is protected by NAP.</li>
   <li>No poaching players from NAP alliances.</li>
@@ -23,7 +23,7 @@ const rules = {
   <li>Each NAP alliance will have a single representative that will vote for the whole alliance.</li>
 </ol>
 <h3>Facility & Banner Rules</h3>
-<ol start="18">
+<ol start="17">
   <li>Follow agreed rotation schedules for fortresses and strongholds.</li>
   <li>Strongholds and fortresses will be distributed after SvS preparation, based on preparation rankings.</li>
   <li>Facilities are free-for-all. Alliances may share or fight for them fairly. Level 4 attack and defense facilities + troop marching facility will go to SvS alliance before SvS.</li>
@@ -31,12 +31,12 @@ const rules = {
   <li>Do not place banners that block other alliances’ paths to facilities.</li>
 </ol>
 <h3>Voting & Governance</h3>
-<ol start="23">
+<ol start="22">
   <li>NAP decisions are made by majority vote excluding academies/farms.</li>
   <li>If voting results in a tie, the current president casts the deciding vote.</li>
 </ol>
 <h3>Minister Queue Rules</h3>
-<ol start="25">
+<ol start="24">
   <li>Minister of Interior may only be used by R4 and R5 members. It cannot be used to move players in minister queues. It may only be used to create new reservations or swap two players if both players agree.</li>
 </ol>
 <h3></h3>
@@ -60,7 +60,7 @@ const rules = {
   <li>NAP에서 특정 플레이어에 대한 처벌을 결정한 경우, 해당 플레이어가 속한 동맹은 이에 따라야 하며, 그렇지 않으면 NAP 회원 자격을 상실할 수 있습니다.</li>
 </ol>
 <h3>동맹 규칙</h3>
-<ol start="13">
+<ol start="12">
   <li>각 NAP 동맹은 오직 하나의 학원 동맹만 지정할 수 있습니다.</li>
   <li>SvS 지정 동맹은 NAP의 보호를 받습니다.</li>
   <li>NAP 동맹으로부터의 플레이어 스카우팅은 금지됩니다.</li>
@@ -68,7 +68,7 @@ const rules = {
   <li>각 NAP 동맹은 전체 동맹을 대표해 투표할 대표자를 1명 지정해야 합니다.</li>
 </ol>
 <h3>시설 및 깃발 규칙</h3>
-<ol start="18">
+<ol start="17">
   <li>요새 및 성의 순환 스케줄을 반드시 따르십시오.</li>
   <li>요새 및 성은 SvS 준비 단계 이후 준비 순위에 따라 분배됩니다.</li>
   <li>시설은 자유롭게 경쟁할 수 있는 자원입니다. 동맹은 공정하게 싸우거나 나눠 가질 수 있습니다. 4레벨 공격/방어 시설 및 병력 행진 시설은 SvS 전에 SvS 동맹에 먼저 할당됩니다.</li>
@@ -76,12 +76,12 @@ const rules = {
   <li>다른 동맹이 시설에 접근하지 못하도록 막는 깃발을 설치하지 마십시오.</li>
 </ol>
 <h3>투표 및 운영 규칙</h3>
-<ol start="23">
-  <liNAP의 모든 결정은 학원/농장은 제외하고 다수결로 결정됩니다.</li>
+<ol start="22">
+  <li>NAP의 모든 결정은 학원/농장은 제외하고 다수결로 결정됩니다.</li>
   <li>표가 동률일 경우, 현 대통령이 결정표를 행사합니다.</li>
 </ol>
 <h3>장관 대기열 규칙</h3>
-<ol start="25">
+<ol start="24">
   <li>내무부 장관은 R4 및 R5만 사용할 수 있습니다. 대기열에서 플레이어를 이동시키는 데 사용할 수 없으며, 예약 생성 또는 두 명의 동의가 있을 경우에만 교체할 수 있습니다.</li>
 </ol>
 <h3></h3>
@@ -105,7 +105,7 @@ const rules = {
   <li>一旦NAP决定惩罚某玩家，该玩家所属联盟必须配合执行，否则将失去NAP成员资格。</li>
 </ol>
 <h3>联盟规则</h3>
-<ol start="13">
+<ol start="12">
   <li>每个NAP联盟只能指定一个学院联盟。</li>
   <li>被指定参与SvS的联盟受NAP保护。</li>
   <li>禁止从NAP联盟中挖人。</li>
@@ -113,7 +113,7 @@ const rules = {
   <li>每个NAP联盟必须有一名代表，代表整个联盟进行投票。</li>
 </ol>
 <h3>设施与旗帜规则</h3>
-<ol start="18">
+<ol start="17">
   <li>遵循事先商定的据点与堡垒轮换计划。</li>
   <li>据点与堡垒将在SvS准备阶段后，根据准备排名分配。</li>
   <li>设施为自由竞争资源，联盟可公平争夺或共享。4级攻击、4级防御设施及行军加速设施将优先分配给SvS联盟（在SvS开始前）。</li>
@@ -121,12 +121,12 @@ const rules = {
   <li>禁止放置阻挡其他联盟前往设施路线的旗帜。</li>
 </ol>
 <h3>投票与管理规则</h3>
-<ol start="23">
+<ol start="22">
   <li>NAP的所有决策（不包括学院/农场）通过多数票决定。</li>
   <li>若出现平票，由现任总统投出决定性一票。</li>
 </ol>
 <h3></h3>
-<ol start="25">
+<ol start="24">
   <li></li>
 </ol>
 <h3>聊天与行为规范</h3>
@@ -150,7 +150,7 @@ const rules = {
   <li>NAP bir oyuncuya ceza vermeye karar verdiyse, oyuncunun bulunduğu ittifak buna uymalı ya da NAP içindeki yerinden vazgeçmelidir.</li>
 </ol>
 <h3>İttifak Kuralları</h3>
-<ol start="13">
+<ol start="12">
   <li>Her NAP ittifakı yalnızca 1 akademi ittifakı belirleyebilir.</li>
   <li>SvS için belirlenen ittifak NAP koruması altındadır.</li>
   <li>NAP ittifaklarından oyuncu kaçırmak yasaktır.</li>
@@ -158,7 +158,7 @@ const rules = {
   <li>Her NAP ittifakının, tüm ittifak adına oy kullanacak bir temsilcisi olacaktır.</li>
 </ol>
 <h3>Tesis ve Bayrak Kuralları</h3>
-<ol start="18">
+<ol start="17">
   <li>Kale ve güçlü nokta rotasyonları, kararlaştırıldığı şekilde takip edilmelidir.</li>
   <li>Kaleler ve güçlü noktalar, SvS hazırlığı sonrasında hazırlık sıralamasına göre dağıtılır.</li>
   <li>Tesisler herkese açıktır. İttifaklar bunları paylaşabilir veya adil bir şekilde savaşabilir. Seviye 4 saldırı, savunma ve asker yürüyüşü tesisleri SvS’den önce SvS ittifakına verilecektir.</li>
@@ -166,12 +166,12 @@ const rules = {
   <li>Diğer ittifakların tesislere ulaşmasını engelleyen bayraklar yerleştirmeyin.</li>
 </ol>
 <h3>Oylama ve Yönetim Kuralları</h3>
-<ol start="23">
+<ol start="22">
   <li>NAP kararları, akademiler/çiftlikler hariç, çoğunluk oyu ile alınır.</li>
   <li>Oylar eşit çıkarsa, son kararı mevcut başkan verir.</li>
 </ol>
 <h3>Bakan Sırası Kuralları</h3>
-<ol start="25">
+<ol start="24">
   <li>İçişleri Bakanı rolü yalnızca R4 ve R5 üyeleri tarafından kullanılabilir. Oyuncuları sıradan taşımak için kullanılamaz. Yalnızca yeni rezervasyonlar oluşturmak veya iki oyuncu karşılıklı onaylarsa yerlerini değiştirmek için kullanılabilir.</li>
 </ol>
 <h3></h3>
@@ -195,7 +195,7 @@ const rules = {
   <li>Une fois qu’une sanction est décidée par le NAP, l’alliance du joueur sanctionné doit se conformer, ou perdre sa place dans le NAP.</li>
 </ol>
 <h3>Règles d’Alliance</h3>
-<ol start="13">
+<ol start="12">
   <li>Chaque alliance NAP peut désigner une seule alliance académie.</li>
   <li>L’alliance désignée pour SvS est protégée par le NAP.</li>
   <li>Il est interdit de débaucher des joueurs des alliances NAP.</li>
@@ -203,7 +203,7 @@ const rules = {
   <li>Chaque alliance NAP aura un représentant unique chargé de voter pour toute l’alliance.</li>
 </ol>
 <h3>Règles des Installations et Bannières</h3>
-<ol start="18">
+<ol start="17">
   <li>Respectez les plannings de rotation convenus pour les forteresses et bastions.</li>
   <li>Les bastions et forteresses seront distribués après la phase de préparation SvS, selon le classement de préparation.</li>
   <li>Les installations sont libres d’accès. Les alliances peuvent les partager ou se les disputer loyalement. Les installations de niveau 4 (attaque, défense, et marche) seront attribuées à l’alliance SvS avant le début de SvS.</li>
@@ -211,12 +211,12 @@ const rules = {
   <li>Ne placez pas de bannières bloquant les chemins d’accès des autres alliances aux installations.</li>
 </ol>
 <h3>Règles de Vote et de Gouvernance</h3>
-<ol start="23">
+<ol start="22">
   <li>Les décisions du NAP sont prises à la majorité des voix, à l'exception des académies/fermes.</li>
   <li>En cas d’égalité, le président en fonction a le vote décisif.</li>
 </ol>
 <h3>Règles de File des Ministres</h3>
-<ol start="25">
+<ol start="24">
   <li>Le Ministre de l’Intérieur ne peut être utilisé que par les membres R4 et R5. Il ne peut pas déplacer les joueurs dans la file. Il peut uniquement être utilisé pour créer de nouvelles réservations ou échanger deux joueurs avec accord mutuel.</li>
 </ol>
 <h3></h3>
@@ -240,7 +240,7 @@ const rules = {
   <li>Una vez que el NAP acuerde castigar a un jugador, la alianza que lo aloje debe cumplir o perderá su posición en el NAP.</li>
 </ol>
 <h3>Reglas de Alianza</h3>
-<ol start="13">
+<ol start="12">
   <li>Cada alianza NAP puede designar solo una alianza academia.</li>
   <li>La alianza designada para SvS está protegida por el NAP.</li>
   <li>Prohibido reclutar jugadores de otras alianzas NAP.</li>
@@ -248,7 +248,7 @@ const rules = {
   <li>Cada alianza NAP tendrá un único representante que votará por toda la alianza.</li>
 </ol>
 <h3>Reglas de Instalaciones y Banderas</h3>
-<ol start="18">
+<ol start="17">
   <li>Seguir los cronogramas de rotación acordados para bastiones y fortificaciones.</li>
   <li>Los bastiones y fortificaciones serán distribuidos tras la preparación del SvS, basados en el ranking de preparación.</li>
   <li>Las instalaciones están abiertas a todos. Las alianzas pueden compartirlas o luchar por ellas de forma justa. Las instalaciones de ataque, defensa y marcha de nivel 4 se otorgarán primero a la alianza SvS antes del evento.</li>
@@ -256,12 +256,12 @@ const rules = {
   <li>No colocar banderas que bloqueen el acceso de otras alianzas a las instalaciones.</li>
 </ol>
 <h3>Votación y Gobernanza</h3>
-<ol start="23">
+<ol start="22">
   <li>Las decisiones del NAP se toman por mayoría de votos, excluyendo academias/ granjas.</li>
   <li>Si hay empate, el presidente actual tiene el voto decisivo.</li>
 </ol>
 <h3>Reglas de Cola Ministerial</h3>
-<ol start="25">
+<ol start="24">
   <li>El Ministro del Interior solo puede ser usado por miembros R4 y R5. No puede usarse para mover jugadores en la cola. Solo se puede usar para hacer nuevas reservas o intercambiar posiciones si ambos jugadores están de acuerdo.</li>
 </ol>
 <h3></h3>
@@ -286,7 +286,7 @@ const rules = {
   <li>بمجرد أن يقرر NAP معاقبة لاعب، يجب على تحالفه الالتزام بذلك أو فقدان عضويته في NAP.</li>
 </ol>
 <h3>قواعد التحالف</h3>
-<ol start="13">
+<ol start="12">
   <li>يمكن لكل تحالف ضمن NAP تعيين تحالف أكاديمي واحد فقط.</li>
   <li>التحالف المعين للمشاركة في SvS محمي من قبل NAP.</li>
   <li>ممنوع جذب اللاعبين من تحالفات NAP الأخرى.</li>
@@ -294,7 +294,7 @@ const rules = {
   <li>يجب أن يكون لكل تحالف NAP ممثل واحد يصوّت باسم التحالف بأكمله.</li>
 </ol>
 <h3>قواعد المنشآت والأعلام</h3>
-<ol start="18">
+<ol start="17">
   <li>اتباع جداول التناوب المتفق عليها للحصون والقلاع.</li>
   <li>سيتم توزيع الحصون والقلاع بعد مرحلة التحضير لـ SvS بناءً على الترتيب.</li>
   <li>المنشآت متاحة للجميع. يمكن للتحالفات مشاركتها أو التنافس عليها بشكل عادل. سيتم منح منشآت الهجوم والدفاع والمشي من المستوى الرابع لتحالف SvS قبل الحدث.</li>
@@ -302,12 +302,12 @@ const rules = {
   <li>ممنوع وضع أعلام تمنع وصول تحالفات أخرى إلى المنشآت.</li>
 </ol>
 <h3>قواعد التصويت والإدارة</h3>
-<ol start="23">
+<ol start="22">
   <li>NAP، باستثناء الأكاديميات/المزارع، تُتخذ قراراته عن طريق التصويت بالأغلبية</li>
   <li>في حال التعادل، يكون للرئيس الحالي صوت الحسم.</li>
 </ol>
 <h3>قواعد قائمة الوزير</h3>
-<ol start="25">
+<ol start="24">
   <li>يمكن فقط لأعضاء R4 وR5 استخدام دور وزير الداخلية. لا يمكن استخدامه لنقل اللاعبين في القائمة، بل فقط لإنشاء حجوزات جديدة أو تبديل لاعبين بموافقة الطرفين.</li>
 </ol>
 <h3>/h3>
