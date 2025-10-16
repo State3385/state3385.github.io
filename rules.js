@@ -7,7 +7,7 @@ const rules = {
   <li>No third-party interference (e.g. players switching alliances to assist) or city attacks during facility battles.</li>
   <li>Only the assigned NAP alliance may attack a stronghold or fortress. No other player or alliance should touch it.</li>
   <li>No solo attack on fortresses or strongholds.</li>
-  <li>The presidency will rotate amoung the top 3 ranking SVS prep NAP alliances. The selection method is up to each alliance.</li>
+  <li>The presidency will rotate among the top 3 ranking SVS prep NAP alliances. The selection method is up to each alliance.</li>
   <li>The president must activate presidential skills during event-aligned days or be removed from rotation until NAP votes otherwise.</li>
   <li>The president is a servant for the state, not a ruler and should always follow what NAP agrees upon.</li>
   <li>Violating NAP rules may result in presidential punishment, compensation, troop loss, removal from a NAP alliance, or removal from NAP entirely.</li>
@@ -48,7 +48,7 @@ const rules = {
   <li>시설 전투 중 제3자의 개입(예: 동맹을 바꿔서 지원)이나 도시 공격은 금지됩니다.</li>
   <li>지정된 NAP 동맹만이 요새나 성을 공격할 수 있습니다. 다른 플레이어나 동맹은 손대면 안 됩니다.</li>
   <li>요새나 성에 대한 단독 공격은 금지됩니다.</li>
-  <li>대통령직은 모든 NAP 동맹 사이에서 순환제로 운영됩니다. 선정 방식은 각 동맹에 맡깁니다.</li>
+  <li>회장직은 상위 3개 SVS 준비 NAP 연합에서 순환적으로 운영됩니다. 선정 방식은 각 연합에서 결정합니다.</li>
   <li>대통령은 이벤트 연계일에 대통령 스킬을 반드시 활성화해야 하며, 그렇지 않으면 NAP의 재투표가 있을 때까지 순환에서 제외됩니다.</li>
   <li>대통령은 국가의 종복이며 지배자가 아니며, 항상 NAP의 합의에 따라야 합니다.</li>
   <li>NAP 규칙을 위반할 경우, 대통령의 징계, 보상, 병력 손실, NAP 동맹에서의 축출 또는 NAP 자체에서의 완전한 추방이 이뤄질 수 있습니다.</li>
@@ -285,6 +285,47 @@ const rules = {
 <h3>قواعد قائمة الوزير</h3>
 <ol start="24">
   <li>يمكن فقط لأعضاء R4 وR5 استخدام دور وزير الداخلية. لا يمكن استخدامه لنقل اللاعبين في القائمة، بل فقط لإنشاء حجوزات جديدة أو تبديل لاعبين بموافقة الطرفين.</li>
+</ol>
+  `,
+      br: `
+<h3>Regras de Combate</h3>
+<ol>
+<li>É proibido atacar, reunir ou patrulhar alianças do PNA, incluindo suas academias, cidades, quartéis-generais e estandartes.</li>
+<li>É proibido atacar peças de coleta fora dos eventos designados (Irmãos de Armas).</li>
+<li>É proibida a interferência de terceiros (por exemplo, jogadores trocando de aliança para ajudar) ou ataques a cidades durante batalhas em instalações.</li>
+<li>Somente a aliança do PNA designada pode atacar uma fortaleza ou reduto. Nenhum outro jogador ou aliança deve tocá-la.</li>
+<li>É proibido atacar fortalezas ou redutos individualmente.</li>
+<li>A presidência será alternada entre as 3 melhores alianças do PNA de preparação para o SVS. O método de seleção fica a critério de cada aliança.</li>
+<li>O presidente deve ativar habilidades presidenciais durante os dias alinhados ao evento ou será removido da rotação até que o PNA decida o contrário.</li>
+<li>O presidente é um servo do estado, não um governante, e deve sempre seguir o que o PNA concorda.</li>
+<li>Violar as regras do PNA pode resultar em punição presidencial, compensação, perda de tropas, remoção de uma aliança do PNA ou remoção completa do PNA.</li>
+<li>Os jogadores não podem sair do PNA, quebrar as regras e retornar ao PNA. Qualquer tentativa de burlar as regras resultará em punição.</li>
+<li>Assim que o PNA concordar em punir um jogador, a aliança que o ocupa deverá obedecer ou perderá sua posição no PNA.</li>
+</ol>
+<h3>Regras da Aliança</h3>
+<ol start="12">
+<li>Cada aliança do PNA pode designar apenas 1 aliança de academia.</li>
+<li>A aliança designada para SvS é protegida pelo PNA.</li>
+<li>É proibido roubar jogadores de alianças do PNA.</li>
+<li>O PNA inclui as 8 principais alianças, suas academias e a aliança SvS.</li>
+<li>Cada aliança do PNA terá um único representante que votará em toda a aliança.</li>
+</ol>
+<h3>Regras de Instalações e Estandartes</h3>
+<ol start="17">
+<li>Siga os cronogramas de rotação acordados para fortalezas e redutos.</li>
+<li>Fortalezas e fortalezas serão distribuídas após a preparação para o SvS, com base na classificação de preparação.</li>
+<li>As instalações são livres para todos. As alianças podem compartilhá-las ou lutar por elas de forma justa. Instalações de ataque e defesa de nível 4 + instalação de marcha de tropas serão destinadas à aliança SvS antes do SvS.</li>
+<li>Nenhuma aliança pode controlar instalações duplicadas.</li>
+<li>Não coloque faixas que bloqueiem o caminho de outras alianças para as instalações.</li>
+</ol>
+<h3>Votação e Governança</h3>
+<ol start="22">
+<li>As decisões do PNA são tomadas por maioria de votos, excluindo academias/fazendas.</li>
+<li>Em caso de empate na votação, o presidente atual tem o voto decisivo.</li>
+</ol>
+<h3>Regras da Fila de Ministros</h3>
+<ol start="24">
+<li>O Ministro do Interior só pode ser usado por membros R4 e R5. Não pode ser usado para mover jogadores em filas de ministros. Só pode ser usado para criar novas reservas ou trocar dois jogadores se ambos concordarem.</li>
 </ol>
 </div>
 `
