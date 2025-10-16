@@ -40,7 +40,7 @@ const rules = {
 <ol start="25">
   <li>Minister of Interior may only be used by R4 and R5 members. It cannot be used to move players in minister queues. It may only be used to create new reservations or swap two players if both players agree.</li>
 </ol>
-<h3>Chat & Conduct</h3>
+<h3></h3>
 <ol start="26">
   <li></li>
 </ol>
